@@ -2,8 +2,8 @@
 Contributors: scott.deluzio
 Tags: Google Authenticator, two factor authentication, 2fa
 Requires at least: 4.5
-Tested up to: 4.9.7
-Stable tag: 1.0
+Tested up to: 5.0.3
+Stable tag: 1.0.1
 License: GNU Version 2 or Any Later Version
 
 Hides the Google Authenticator form field on login if user does not require 2FA.
@@ -41,9 +41,11 @@ This plugin requires AJAX on your site to be working properly. Here are a few th
 * You might have another login theme plugin enabled that is interfering with this plugin.
 
 == Changelog ==
+= 1.0.1 =
+* Updated plugin details.
 = 1.0 =
 * Initial release
 
 == Upgrade Notice ==
-= 1.0 =
-* Initial release
+= 1.0.1 =
+* Updated plugin details.

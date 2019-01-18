@@ -1,9 +1,10 @@
 <?php
 /*
 Plugin Name: Google Authenticator Hide For Non-Users
+Plugin URI: https://amplifyplugins.com
 Description: Hides the Google Authenticator form field on login if user doesn't require 2FA
 Author: Scott DeLuzio
-Version: 1.0
+Version: 1.0.1
 Author URI: https://scottdeluzio.com/
 */
 
