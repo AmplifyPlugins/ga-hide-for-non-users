@@ -2,7 +2,7 @@
 Contributors: scott.deluzio
 Tags: Google Authenticator, two factor authentication, 2fa
 Requires at least: 4.5
-Tested up to: 5.0.3
+Tested up to: 5.2.0
 Stable tag: 1.0.1
 License: GNU Version 2 or Any Later Version
 
